@@ -1,0 +1,5 @@
+title: Telegram signal format
+description: An open specification for how Telegram trading signals are written, and how software should read them.
+theme: jekyll-theme-minimal
+exclude:
+  - LICENSE.md
